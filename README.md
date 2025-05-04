@@ -8,7 +8,7 @@
 
 <br>
 
-###  wave.gif About Me
+### About Me
 
 Driven by a deep curiosity and a commitment to continuous growth, I embarked on the journey of software engineering fueled by a desire to learn and develop myself. The dynamic nature of front-end development, with its blend of creativity and technical challenges, truly resonates with me. My aim is to become a skilled and confident front-end web developer, capable of building intuitive and impactful user experiences.
 
